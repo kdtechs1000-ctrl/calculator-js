@@ -25,6 +25,10 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
+## 📸 Screenshot
+
+![Calculator Screenshot](assets/ss.png)
+
 
 ## 🎯 Future Improvements
 
